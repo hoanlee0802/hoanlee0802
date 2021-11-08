@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hoanlee0802
-- 👀 I’m interested in learning new things and make new friends
+- 👀 I’m interested in learning new things and making new friends
 - 🌱 I’m currently learning Python, Java, C,...
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me hoanlee0802@gmail.com
 
 <!---
